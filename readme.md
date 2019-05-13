@@ -1,6 +1,12 @@
-# Botkit Starter Kit
+# FAQ Bot
 
-This is a Botkit starter kit for webex, created with the [Yeoman generator](https://github.com/howdyai/botkit/tree/master/packages/generator-botkit#readme)
+This code accompanies the blog post at [http://darrenparkinson.uk/posts/2019-05-12-webex-teams-bot-with-qna/](http://darrenparkinson.uk/posts/2019-05-12-webex-teams-bot-with-qna/)
+
+It outlines the creation of a simple Webex Teams bot that uses the Microsoft QnA Maker tool to answer frequently asked questions held in a spreadsheet on SharePoint.
+
+## Botkit Starter Kit
+
+This is based on the Botkit starter kit for webex, created with the [Yeoman generator](https://github.com/howdyai/botkit/tree/master/packages/generator-botkit#readme)
 
 [Botkit Docs](https://botkit.ai/docs/v4)
 
